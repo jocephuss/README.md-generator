@@ -6,7 +6,7 @@ function renderLicenseBadge(license) {
   } else if (license === 'GNU GPLv3') {
     return '![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)';
   } else {
-    return ''; 
+    return '';
   }
 }
 
