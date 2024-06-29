@@ -37,4 +37,6 @@ open terminal and run node index.js
 For questions about the project, please contact [Joscephuss](https://github.com/Joscephuss).
 You can also reach out directly at rowlandjosiah14@gmail.com.
 
+## Walkthrough 
+https://watch.screencastify.com/v/GZAblM04ryfEPcQtfEh1
 
