@@ -1,10 +1,10 @@
 
-# README generator
+# Logo SVG  Generator
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-generation of readme files
+Creating simple logo's using NodeJS
 
 ## Table of Contents
 - [Installation](#installation)
@@ -15,10 +15,10 @@ generation of readme files
 - [Questions](#questions)
 
 ## Installation
-npm install
+N/A
 
 ## Usage
-a way to quickly generate README's
+Using NodeJS to create Logo's
 
 
 ## License
@@ -27,11 +27,11 @@ This project is licensed under the MIT license. See the [MIT License]([MIT Licen
 
 
 ## Contributing
-Myself
+N/A
 
 ## Tests
-open terminal and run node index.js
+Open terminal and run index.js 
 
 ## Questions
-For questions about the project, please contact [Joscephuss](https://github.com/Joscephuss).
+For questions about the project, please contact [Jocephuss](https://github.com/Jocephuss).
 You can also reach out directly at rowlandjosiah14@gmail.com.
